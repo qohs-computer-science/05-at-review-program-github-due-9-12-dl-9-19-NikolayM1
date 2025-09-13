@@ -106,4 +106,4 @@ public class ReviewProgram { // class begins
 	
 	} //method ends
 
-} //class ends
+// note: code was tested in codeHS sandbox before being copied into github
